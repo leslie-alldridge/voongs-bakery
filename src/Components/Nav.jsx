@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
-
 export default class MainNav extends Component {
   render() {
     return (
