@@ -76,6 +76,11 @@ a {
   opacity: 0.9;
 }
 
+#aboutImg {
+  height: 20%;
+  width: 20%;
+}
+
 a:hover {
   opacity: 1;
 }
