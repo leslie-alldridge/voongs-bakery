@@ -8,10 +8,10 @@ export default class About extends Component {
           <Image id="aboutImg" src="/about.png" responsive circle />
         </Col>
         <Col xs={4} md={4}>
-          Food &amp; Drink
+        <Image id="aboutImg" src="/drink.png" responsive circle />
         </Col>
         <Col xs={4} md={4}>
-          Pricing
+        <Image id="aboutImg" src="/dollar.png" responsive circle />
         </Col>
       </Row>
     );
