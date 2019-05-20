@@ -9,4 +9,4 @@ The website must have information such as phone number, opening hours, christmas
 The site should include prices but not neccessarily showcase each item
 
 
-# Resurrecting this repo so I don't forget 
+Resurrecting this repo so I don't forget 
